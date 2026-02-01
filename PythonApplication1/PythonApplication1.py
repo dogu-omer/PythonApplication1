@@ -9,7 +9,7 @@ musteriAdiSoyadi=musteriAdi+" "+musteriSoyadi
 musteriCinsiyet="Erkek"
 musteriYas=36
 musteriMeslek="Mühendis"
-musteriMedeniDurum="Evli"   
+musteriMedeniDurum="Bekar"   
 musteriGelir=15000.50
 musteriAdres="İstanbul/Türkiye"
 print("Müşteri Adı Soyadı:",musteriAdiSoyadi)
